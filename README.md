@@ -9,4 +9,4 @@ Create new remote repositories with 1 command.
 2. Make scripts folder accessible from terminal
 
 ## Use
-`newrepo "Commit message here" repo_name_here`
+`newrepo repo_name_here "Commit message here"`
